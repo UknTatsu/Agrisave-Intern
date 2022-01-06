@@ -12,8 +12,11 @@ Goal: To change the names of the current names of boards on Pybytes and TTN, as 
 
 **boardtype-purpose**
 > L4-PL
+> 
 > WIPY-A1
+> 
 > GPY-CoolBoard
+> 
 > FIPY-LTEtesting
 
 boardtypes:
